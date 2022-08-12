@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+}
+div{
+    padding: 50px;
+    margin: 20px;
+    border: 6px ridge greenyellow;
+    font-weight: bold;
+    font-size: 50px;
+}
+.formdesign{
+    border-radius: 10%/50%;
+    background-color: aqua;
+}
